@@ -1,2 +1,1 @@
-# Autocare
-Autocare website project
+AutoCare
